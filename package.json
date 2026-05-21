@@ -8,7 +8,7 @@
   },
   "hero": {
     "backgroundImage": "https://picsum.photos/id/1015/2000/1200",
-    "shieldIcon": "⚔️",
+    "shieldIcon": "🏔️",
     "mainTitle": "SUMMIT VAULT",
     "token": "$SUMIT",
     "tagline": "THE APEX OF ELEVATED FINANCE",
@@ -40,4 +40,5 @@
   ],
   "footer": {
     "text": "© 2026 Summit Vault • All Rights Reserved • Elevate Protocols"
-  },
+  }
+}
